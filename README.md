@@ -39,9 +39,9 @@
 
 ### Coding Challenge Progress:
 
-<p align="center">
+<div align="center">
     ![Leetcode Stats](https://leetcode.card.workers.dev/?username=Firebelias12&theme=nord)
-</p>
+</div>
 ---
 
 
