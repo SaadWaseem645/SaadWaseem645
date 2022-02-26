@@ -39,9 +39,8 @@
 
 ### Coding Challenge Progress:
 
-<div style="text-align:center">
-    ![Leetcode Stats](https://leetcode.card.workers.dev/?username=Firebelias12&theme=nord)
-</div>
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=Firebelias12&theme=nord)
+![Codewars Stats](https://github-readme-codewars-stats.herokuapp.com/api/?username=Firebelias12&badge&colormode=dark_mode)
 ---
 
 
