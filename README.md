@@ -1,6 +1,6 @@
 # Hi there, I'm [Saad][website] 👋 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Gamer and a Curious Developer!!
 
 - 🌱 I’m a curious developer and currently learning advanced Android concepts, advanced Machine Learning concepts, and Quantitative Trading Algorithms
 - 🎮 I’m doing Game Development as well!
@@ -9,13 +9,10 @@
 
 ### Connect with me:
 
-[![My Website](./icons/globe-solid.svg)](https://saad-waseem.netlify.app/)
-&nbsp;&nbsp;
-[![My LinkedIn](./icons/linkedin-brands.svg)](https://linkedin.com/in/saadwaseem645)
-&nbsp;&nbsp;
-[![My Instagram](./icons/instagram-square-brands.svg)](https://instagram.com/deathly_zalera)
-&nbsp;&nbsp;
-[![My Spotify](./icons/spotify-brands.svg)](https://open.spotify.com/user/31m7lipzyuayqa574bmwedebshrm?si=17bce91dd9a8430b)
+[<img align="left" alt="Website" width="52px" src="./icons/globe-solid.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="LinkedIn" width="52px" src="./icons/linkedin-brands.svg" style="padding-right:10px;" />][linkedin]
+[<img align="left" alt="Instagram" width="52px" src="./icons/instagram-square-brands.svg" style="padding-right:10px;" />][instagram]
+[<img align="left" alt="Spotify" width="52px" src="./icons/spotify-brands.svg" style="padding-right:10px;" />][spotify]
 
 ### Languages and Tools:
 
