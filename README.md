@@ -13,6 +13,8 @@
 [<img align="left" alt="LinkedIn" width="52px" src="./icons/linkedin-brands.svg" style="padding-right:10px;" />][linkedin]
 [<img align="left" alt="Instagram" width="52px" src="./icons/instagram-square-brands.svg" style="padding-right:10px;" />][instagram]
 [<img align="left" alt="Spotify" width="52px" src="./icons/spotify-brands.svg" style="padding-right:10px;" />][spotify]
+<br />
+<br />
 
 ### Languages and Tools:
 
