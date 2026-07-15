@@ -54,10 +54,10 @@ I'm a curious developer operating at the intersection of **mobile development**,
 <!-- SOCIAL -->
 <div align="center">
   <a href="https://saad-waseem.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=33FF00&labelColor=0D1117&color=33FF00" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=33FF00&labelColor=111111&color=33FF00" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/saadwaseem645">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=33FF00&labelColor=0D1117&color=33FF00" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=33FF00&labelColor=111111&color=33FF00" alt="LinkedIn" />
   </a>
 </div>
 
@@ -109,10 +109,10 @@ I'm a curious developer operating at the intersection of **mobile development**,
   <table>
     <tr>
       <td>
-        <img src="https://github-stats-extended.vercel.app/api?username=SaadWaseem645&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=33FF00&text_color=33FF00&icon_color=33FF00&border_color=33FF00&ring_color=33FF00" alt="GitHub Stats" />
+        <img src="https://github-stats-extended.vercel.app/api?username=SaadWaseem645&show_icons=true&hide_border=true&count_private=true&bg_color=161B22&title_color=33FF00&text_color=00FF41&icon_color=33FF00&border_color=33FF00&ring_color=33FF00" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://streak-stats.demolab.com/?user=SaadWaseem645&hide_border=true&background=0D1117&stroke=33FF00&ring=33FF00&fire=33FF00&currStreakNum=33FF00&sideNums=33FF00&currStreakLabel=33FF00&sideLabels=33FF00&dates=666666" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=SaadWaseem645&hide_border=true&background=161B22&stroke=33FF00&ring=33FF00&fire=33FF00&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=33FF00&sideLabels=33FF00&dates=888888" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -122,14 +122,14 @@ I'm a curious developer operating at the intersection of **mobile development**,
 
 <!-- TOP LANGUAGES -->
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SaadWaseem645&hide_border=true&layout=compact&bg_color=0D1117&title_color=33FF00&text_color=33FF00&border_color=33FF00" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SaadWaseem645&hide_border=true&layout=compact&bg_color=161B22&title_color=33FF00&text_color=00FF41&border_color=33FF00" alt="Top Languages" />
 </div>
 
 <br/>
 
 <!-- ACTIVITY GRAPH -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaadWaseem645&hide_border=true&area=true&radius=8&bg_color=0D1117&color=33FF00&line=33FF00&point=33FF00" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaadWaseem645&hide_border=true&area=true&radius=8&bg_color=161B22&color=00FF41&line=33FF00&point=33FF00" alt="Activity Graph" />
 </div>
 
 <br/>
@@ -139,14 +139,14 @@ I'm a curious developer operating at the intersection of **mobile development**,
 ## 🏆 LEETCODE
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Firebelias12?theme=dark&font=Rasa&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Firebelias12?theme=dark&font=Rasa&colors=%23000000%2C%2333FF00%2C%2333FF00%2C%2333FF00%2C%2333FF00%2C%2333FF00%2C%2333FF00%2C%2333FF00&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
 <br/>
 
 <!-- DEV QUOTE -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0D1117&border_color=33FF00" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border_color=33FF00" alt="Random Dev Quote" />
 </div>
 
 <br/>
