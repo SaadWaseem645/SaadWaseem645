@@ -9,7 +9,7 @@
 
 <!-- VISITOR COUNTER -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaadWaseem645&color=33ff00&style=for-the-badge&label=TERMINAL+ACCESSES" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SaadWaseem645&color=00f088&style=for-the-badge&label=TERMINAL+ACCESSES" alt="Profile Views" />
 </div>
 
 <br/>
@@ -54,10 +54,10 @@ I'm a curious developer operating at the intersection of **mobile development**,
 <!-- SOCIAL -->
 <div align="center">
   <a href="https://saad-waseem.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=33FF00&labelColor=111111&color=33FF00" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=33FF00&labelColor=111111&color=88FF00" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/saadwaseem645">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=33FF00&labelColor=111111&color=33FF00" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=33FF00&labelColor=111111&color=88FF00" alt="LinkedIn" />
   </a>
 </div>
 
