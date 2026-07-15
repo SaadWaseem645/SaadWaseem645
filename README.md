@@ -111,9 +111,7 @@ I'm a passionate developer who loves building things and exploring new technolog
 <details>
   <summary>🏆 Competitive Programming</summary>
   <br/>
-  <div align="center">
-    <img src="https://leetcode.card.workers.dev/?username=Firebelias12&theme=nord" alt="LeetCode Stats" />
-  </div>
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/Firebelias12?theme=dark&font=Rasa&ext=heatmap)
 </details>
 
 <br/>
